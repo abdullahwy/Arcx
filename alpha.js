@@ -214,7 +214,7 @@ async function startalpha() {
          }
          return message;
       },
-      browser: ['Bot By ZeeoneOfc', 'safari', '1.0.0'],
+      browser: ['Bot By ArcX', 'safari', '1.0.0'],
       auth: state,
       version
    })
