@@ -31,24 +31,24 @@ global.language = english //change indonesia to english if you don't understand 
 
 // Other
 // Other
-global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
-global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "mdsandaru2@gmail.com" //bebas
-global.region = "Buddhist" //bebas
+global.botname = "ArcX" //namabot kalian
+global.ownername = "A.R.Abdullah" //nama kalian
+global.myweb = "https://github.com/abdullahwy/Arcx" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@TreviewTechBro" //bebas asal jan hapus
+global.myweb2 = "https://github.com/abdullahwy/Arcx" //bebas
+global.email = "arabdullahwinpc@gmail.com" //bebas
+global.region = "Islamic" //bebas
 global.timezone = 'Asia/Colombo' //  timezone wib
-global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
+global.premium = ['94771966060'] //premium user
+global.owner = ["94772582662", "94774281955"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "94771966060" // nomor wa kalian
+global.ownernomerr = "+94771966060" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
-global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Md' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.background_welcome = "https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.thumbGif = ''
+global.packname = '© ArcX-Md' //sticker wm ubah
+global.author = 'ArcX Stickers' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -57,20 +57,20 @@ global.limitawal = {
    free: 100
 }
 
-global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
-global.bankRPG = 'https://telegra.ph/file/ce47dca98cfdb34162abb.png'
-global.bansosRPG = 'https://telegra.ph/file/646af753f38fbf7bbbccc.jpg'
-global.bansosRPG_ = 'https://telegra.ph/file/ba18a18aac022170c8056.jpg'
-global.berburuRPG = 'https://telegra.ph/file/95a202f631ab7172c3f25.jpg'
-global.inventoryRPG = 'https://telegra.ph/file/507395e2edbd1d740a0fd.png'
-global.cooldownRPG = 'https://telegra.ph/file/5e1e191a47028d9648ffa.jpg'
-global.dailyRPG = 'https://telegra.ph/file/17e857848a3afdb1c4fd8.jpg'
-global.hourlyRPG = 'https://telegra.ph/file/bcabf71c0f56207d1629e.jpg'
-global.kandangRPG = 'https://telegra.ph/file/89c3b3ec69d373da8f64b.jpg'
-global.kolamRGP = 'https://telegra.ph/file/0bc07117c78b2c9674b7d.jpg'
-global.mancingRPG = 'https://telegra.ph/file/1420d26b7f04f84993225.jpg'
-global.monthlyRPG = 'https://telegra.ph/file/7eadf65b95d9f7a3ecb46.jpg'
-global.weeklyRPG = 'https://telegra.ph/file/ffc85895d14db97931f0f.jpg'
+global.adventureRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.bankRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.bansosRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.bansosRPG_ = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.berburuRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.inventoryRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.cooldownRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.dailyRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.hourlyRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.kandangRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.kolamRGP = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.mancingRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.monthlyRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
+global.weeklyRPG = 'https://telegra.ph/file/93eba6a0b4cabcde79fb2.jpg'
 global.rpg = {
    emoticon(string) {
       string = string.toLowerCase()
@@ -122,17 +122,17 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
-   admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-   botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-   owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-   group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-   private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
+   sukses: '🤗Success ~',
+   admin: 'You must be admin for that !',
+   botAdmin: 'Please Give Me Admin !',
+   owner: 'Only Owner Can Use It !',
+   group: 'You Can Use This Only In Groups !',
+   private: 'You Can Use This Only In Private Chat !',
    bot: 'Fitur Khusus Pengguna Nomor Bot',
    errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
    wait: '⏳ *Loding*',
-   lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-   example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+   lockCmd: 'Only Owner Can Use It !',
+   example1: 'Welcome @user For Our Group @subject Group Rules  @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
